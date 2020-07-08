@@ -15,10 +15,11 @@ EXTENSIONS = {
     'admin',
     'help',
     'dab',
-    'ori.guild',
-    'ori.rando.logic_helper',
-    'ori.rando.role',
-    'ori.rando.seedgen',
+    'guilds.julgane',
+    'guilds.ori',
+    'ori.logic_helper',
+    'ori.role',
+    'ori.seedgen',
     'stream',
     'tag'
 }
